@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "practicaparcial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelksk/practicaParcial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelksk/practicaParcial/issues"
+  },
+  "homepage": "https://github.com/joelksk/practicaParcial#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
